@@ -20,10 +20,7 @@
 <a href="https://marfeyx.ch">
   <img src="https://img.shields.io/badge/Portfolio-marfeyx.ch-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/marfeyx">
-  <img src="https://img.shields.io/badge/LinkedIn-Marfeyx-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:marfeyx@gmail.com">
+<a href="mailto:contact.marfeyx@gmail.com">
   <img src="https://img.shields.io/badge/Email-marfeyx%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/marfeyx">
@@ -55,7 +52,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,blazor,razor,tailwind,bootstrap,vite,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?iblazor,razor,mudblazor,bootstrap&theme=dark" />
 
 </div>
 
@@ -63,7 +60,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,postgres,mysql,sqlite,prisma,supabase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=dotnet,postgres,mysql,supabase&theme=dark" />
 
 </div>
 
@@ -71,7 +68,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,cloudflare,vercel,visualstudio,vscode,linux,windows&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,cloudflare,visualstudio,vscode,windows&theme=dark" />
 
 </div>
 
