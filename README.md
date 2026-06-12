@@ -41,49 +41,6 @@
 
 ---
 
-## About
-
-I am a software engineering-focused developer building modern, production-ready applications across the full stack. My work combines clean frontend architecture, reliable backend systems, automation, AI tooling, and a product-first engineering mindset.
-
-I care about writing software that is fast, maintainable, secure, and actually useful instead of becoming another digital fossil buried in a repository nobody dares to open.
-
-My current focus is on full-stack web development, AI-assisted engineering workflows, automation systems, cloud-ready applications, and polished developer experiences.
-
-<br />
-
-<table>
-<tr>
-<td width="50%">
-
-### Engineering Focus
-
-- Full-stack product development
-- Scalable frontend architecture
-- Backend APIs and database-driven systems
-- AI-assisted automation workflows
-- Developer tooling and CI/CD pipelines
-- Performance-focused web applications
-- Clean UI systems and component-driven design
-
-</td>
-<td width="50%">
-
-### Open To
-
-- Software engineering opportunities
-- Frontend and full-stack roles
-- AI automation projects
-- Open source collaboration
-- Developer tooling projects
-- Product engineering teams
-- High-impact technical challenges
-
-</td>
-</tr>
-</table>
-
----
-
 ## Tech Stack
 
 ### Languages
@@ -117,19 +74,6 @@ My current focus is on full-stack web development, AI-assisted engineering workf
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,cloudflare,vercel,visualstudio,vscode,linux,windows&theme=dark" />
 
 </div>
-
----
-
-## AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---|---:|---|
-| AI-Assisted Development | Advanced | Using AI systems to accelerate software design, refactoring, debugging, documentation, and product development workflows. |
-| Local LLM Tooling | Advanced | Working with local Ollama-based models, prompt engineering, model configuration, and local-first assistant workflows. |
-| Automation Agents | Intermediate | Designing tool-routing logic for systems that can research, edit files, manage projects, and delegate coding tasks. |
-| Applied AI Products | Intermediate | Building practical AI-enhanced applications focused on speed, usability, and real-world workflow value. |
-| Prompt Engineering | Advanced | Creating structured prompts for coding agents, system design, documentation, and repeatable engineering outputs. |
-| AI UX Design | Intermediate | Designing interfaces for assistant-like tools, voice-first workflows, subtitles, and visual feedback systems. |
 
 ---
 
@@ -283,30 +227,6 @@ A hands-on software development role focused on building frontend interfaces, ba
 
 ---
 
-## Certifications
-
-### AWS
-
-<img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Track-4F46E5?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
-### Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Database%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle-Java%20Foundations-7C3AED?style=for-the-badge&logo=oracle&logoColor=white" />
-
-### NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Software%20Engineering-6366F1?style=for-the-badge&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/NPTEL-Cloud%20Computing-8B5CF6?style=for-the-badge&logo=googlecloud&logoColor=white" />
-
-### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-4F46E5?style=for-the-badge&logo=cisco&logoColor=white" />
-
----
-
 ## Coding Profiles
 
 <div align="center">
@@ -371,36 +291,3 @@ A hands-on software development role focused on building frontend interfaces, ba
 <img src="https://raw.githubusercontent.com/marfeyx/marfeyx/output/snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
-
----
-
-## Current Focus
-
-```yaml
-Learning:
-  - Advanced C# and .NET architecture
-  - AI-assisted software engineering
-  - Cloudflare Workers and serverless systems
-  - Clean frontend architecture
-  - Secure full-stack development
-
-Building:
-  - Personal portfolio systems
-  - Local AI assistant workflows
-  - Blazor-based internal tools
-  - Automation-first developer utilities
-  - Production-ready web interfaces
-
-Exploring:
-  - Local LLM orchestration
-  - Voice-driven desktop assistants
-  - AI-enhanced coding workflows
-  - Developer experience design
-  - Scalable product engineering
-
-Open To:
-  - Software engineering roles
-  - Full-stack development projects
-  - AI automation collaborations
-  - Open source contributions
-  - High-quality engineering teams
