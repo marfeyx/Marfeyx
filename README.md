@@ -23,9 +23,6 @@
 <a href="mailto:contact.marfeyx@gmail.com">
   <img src="https://img.shields.io/badge/Email-marfeyx%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/marfeyx">
-  <img src="https://img.shields.io/badge/GitHub-marfeyx-111827?style=for-the-badge&logo=github&logoColor=A78BFA" />
-</a>
 
 <br />
 <br />
@@ -70,10 +67,6 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=marfeyx&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" />
-
-<br />
-
 <img width="49%" src="https://streak-stats.demolab.com?user=marfeyx&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=A855F7&currStreakLabel=A78BFA" />
 
 <br />
@@ -100,15 +93,5 @@
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=marfeyx&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=A78BFA&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Activity" />
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/marfeyx/Marfeyx/output/snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
