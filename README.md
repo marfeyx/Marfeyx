@@ -265,7 +265,7 @@ A hands-on software development role focused on building frontend interfaces, ba
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=marfeyx&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" />
+<img width="100%" src="https://github-profile-trophy-fork-two.vercel.app/?username=marfeyx&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" />
 
 </div>
 
@@ -285,6 +285,6 @@ A hands-on software development role focused on building frontend interfaces, ba
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/marfeyx/marfeyx/output/snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/marfeyx/Marfeyx/output/snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
