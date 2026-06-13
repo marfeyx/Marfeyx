@@ -44,7 +44,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,js,ts,html,css,python,sql,powershell&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,js,ts,html,css,python,powershell&theme=dark" />
 
 </div>
 
