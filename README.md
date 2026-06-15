@@ -32,45 +32,11 @@
 <img src="https://img.shields.io/github/stars/marfeyx?style=flat-square&color=A855F7&label=Stars&logo=github" />
 
 </div>
-
----
-
-## Tech Stack
-
-### Languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,js,ts,html,css,python,powershell&theme=dark" />
-
-</div>
-
-### Backend & Databases
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=dotnet,postgres,mysql,supabase&theme=dark" />
-
-</div>
-
-### Cloud, DevOps & Tooling
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,cloudflare,visualstudio,vscode,windows&theme=dark" />
-
-</div>
-
 ---
 
 ## GitHub Analytics
 
 <div align="center">
-
-<img width="49%" src="https://streak-stats.demolab.com?user=marfeyx&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=A855F7&currStreakLabel=A78BFA" />
-
-<br />
-<br />
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marfeyx&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=10" />
 
