@@ -16,8 +16,8 @@
 <a href="https://marfeyx.ch">
   <img src="https://img.shields.io/badge/Portfolio-marfeyx.ch-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="mailto:contact.marfeyx@gmail.com">
-  <img src="https://img.shields.io/badge/Email-contact.marfeyx%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:dev@marfeyx.ch">
+  <img src="https://img.shields.io/badge/Email-dev%40marfeyx.ch-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br />
